@@ -5,9 +5,10 @@ return {
   require("plugins/fern"),
   require("plugins/mini"),
   require("plugins/noice"),
+  require("plugins/telescope"),
 
   require("plugins/ddc"),
   require("plugins/lsp"),
 
-  require("plugins/misc")
+  require("plugins/misc"),
 }
